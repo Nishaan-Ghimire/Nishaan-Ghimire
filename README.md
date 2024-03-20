@@ -1,5 +1,5 @@
 # 💫 About Me:
- <br>🔭 I’m currently working on A full-stack application<br>👯 I’m looking to collaborate on: IT projects related to UI/UX, game development, cyber security, and robotics<br>🤝 I’m looking for help with Advancing my knowledge and skills in game development, cyber security, and robotics<br>🌱 I’m currently learning about web application and their security<br>💬 Ask me about UI/UX design, React, Express, Node Js, PHP, MYSQL, MongoDB, CSS, SCSS, HTML, C++, Git<br>
+ <br>🔭 I’m currently working on my person projects involving the AI and though to use AI model as C2C for my small scale robots<br>👯 I’m looking to collaborate on: IT projects related to UI/UX,AI, game development, cyber security, and robotics<br>🤝 I’m looking for help with Advancing my knowledge and skills in game development, cyber security,AI, and robotics<br>🌱 I’m currently learning about web application, creating my own AI model for integrating in project for small scale purpose <br>💬 Ask me about AI, React, Express, Node Js, PHP, MYSQL, MongoDB, CSS, SCSS, HTML, C++, Git<br>
 
 
 ## 🌐 Socials:
